@@ -24,4 +24,8 @@
 |[Syn MPIE Model](https://drive.google.com/file/d/1GCDhgMatmHH1LITpVgB_RTfpjAF13MXu/view?usp=sharing)|Unzip it and place it into the main directory|
 
 ## Training Datasets
-
+CFP-FP (500 ids/7K images/7K pairs)
+AgeDB-30 (570 ids/12,240 images/6K pairs)
+LFW (5749 ids/13233 images/6K pairs)
+CALFW (5749 ids/13233 images/6K pairs)
+CPLFW (5749 ids/13233 images/6K pairs)
