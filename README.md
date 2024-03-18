@@ -19,9 +19,11 @@
 ## Pretrained Model
 |Path|Description|
 |---|---|
-|[Syn MS1M Model](https://drive.google.com/file/d/10cNTvXIHllW1_rIgQovHE26_ASfKtLX7/view?usp=sharing)|Unzip it and place it into the data directory|
+|[Syn MS1M Model](https://drive.google.com/drive/folders/1AR5te4tRe-1H6gHGT29rIj2WECkpAiQo?usp=sharing)|Unzip it and place it into the data directory|
 |[Syn CASIA Model](https://drive.google.com/file/d/1o8649c2AaXg7lO4Fb8FJbJbA6LMc9mOD/view?usp=sharing)|Unzip it and place it into the main directory|
 |[Syn MPIE Model](https://drive.google.com/file/d/1E2GCh3mT3GcLMXNk8FgoxBph29Nwgnz1/view?usp=sharing)|Unzip it and place it into the main directory|
 
 ## Training Datasets
+[Syn MS1M](https://drive.google.com/drive/folders/1AR5te4tRe-1H6gHGT29rIj2WECkpAiQo?usp=sharing)
 
+[Syn MPIE](https://drive.google.com/drive/folders/1AR5te4tRe-1H6gHGT29rIj2WECkpAiQo?usp=sharing)
