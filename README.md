@@ -21,7 +21,7 @@
 |---|---|
 |[Syn MS1M Model](https://drive.google.com/file/d/10cNTvXIHllW1_rIgQovHE26_ASfKtLX7/view?usp=sharing)|Unzip it and place it into the data directory|
 |[Syn CASIA Model](https://drive.google.com/file/d/1GCDhgMatmHH1LITpVgB_RTfpjAF13MXu/view?usp=sharing)|Unzip it and place it into the main directory|
-|[Syn MPIE Model](https://drive.google.com/file/d/1GCDhgMatmHH1LITpVgB_RTfpjAF13MXu/view?usp=sharing)|Unzip it and place it into the main directory|
+|[Syn MPIE Model](https://drive.google.com/file/d/1E2GCh3mT3GcLMXNk8FgoxBph29Nwgnz1/view?usp=sharing)|Unzip it and place it into the main directory|
 
 ## Training Datasets
 
