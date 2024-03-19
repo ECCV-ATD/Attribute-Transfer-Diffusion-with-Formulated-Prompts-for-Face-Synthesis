@@ -25,6 +25,10 @@
 | LR50          | Syn-MPIE | 0.36M (2K×182) | [Google Drive](https://drive.google.com/file/d/1MPU8gNiK9E1sBe_p6kLj4juPMR4o_nQF/view?usp=sharing) |
 
 ## Training Datasets
-[Syn MS1M](https://drive.google.com/drive/folders/16z9t4tR7McY5HSD-u-CvL8CYMNwxx3sT?usp=sharing)
+- Syn-MS1M (10K ids/0.5M images)
+  - [Google Drive](https://drive.google.com/drive/folders/16z9t4tR7McY5HSD-u-CvL8CYMNwxx3sT?usp=sharing)
 
-[Syn MPIE](https://drive.google.com/drive/folders/1PyiwOxTMWdt5N2O5vbGNZzMr5sMNI3r1?usp=sharing)
+- Syn-CASIA (2K ids/0.36M images)
+  - [Google Drive](https://drive.google.com/drive/folders/1PyiwOxTMWdt5N2O5vbGNZzMr5sMNI3r1?usp=sharing)
+
+
