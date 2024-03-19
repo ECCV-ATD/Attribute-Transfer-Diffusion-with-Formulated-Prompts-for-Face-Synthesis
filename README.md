@@ -1,4 +1,4 @@
-# Attribute-Transfer-Diffusion-with-Formulated-Prompts-for-Face-Synthesis
+# Attribute-Transfer Diffusion with Formulated Prompts for Face Synthesis
 ![workflow.png](workflow.png)
 > **Abstract:** We propose an innovative approach to address the limitations associated with real-world facial data, particularly concerning issues of data imbalance, privacy concerns, and the annotation of attributes such as ethnicity, gender, and age. Our methodology comprises two interdependent modules: the Unique Face Generator (UFG) and the Attribute-Transfer Diffusion Model (ATD). The UFG is meticulously configured to generate unique frontal faces, each precisely tailored to specified ethnicity, gender, and age intervals. Leveraging advanced techniques including ChatGPT for prompt generation, ControlNet for steering the synthesis process, and Stable Diffusion for enhanced stability and realism, the UFG ensures the creation of diverse and realistic facial representations. Subsequently, the UFG-generated faces serve as input for the ATD module, which excels in duplicating styles from a given set of reference faces onto the input face while meticulously preserving the original facial identity. Our approach not only ensures the preservation of identity information within specific demographic groups but also enhances the diversity of the generated faces, effectively mitigating issues of data imbalance and privacy concerns prevalent in real-world datasets. To evaluate the efficacy of our approach, we curated three synthetic datasets, namely Syn-MPIE, Syn-MS1M, and Syn-CASIA, and compared them with their real-world counterparts for face recognition tasks. Through comprehensive comparative analyses against state-of-the-art methods, we demonstrate the distinct advantages and efficacy of our proposed approach. By integrating cutting-edge technologies such as ChatGPT, ControlNet, and Stable Diffusion, our approach offers a novel and effective solution for generating synthetic faces with unparalleled diversity, fidelity, and utility.
 >
@@ -35,3 +35,7 @@ Please prepare the validation set in [insightface](https://github.com/deepinsigh
 python validation_torch.py
 ```
 ![table.png](table.png)
+
+Verification accuracy on benchmarks of Our FR model with SOTA method.Our approach shows superior handling of cross-pose challenges, notably in the CFPFP
+benchmark, while DCFace is particularly adept with the age variations in AgeDB. The data reflects Syn-MS1M’s consistently higher accuracy, underscoring
+the effectiveness of our approach in diverse face recognition scenarios.
