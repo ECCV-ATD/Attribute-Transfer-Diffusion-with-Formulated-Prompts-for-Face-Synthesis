@@ -29,7 +29,7 @@ pip install -r requirements.txt
 - Syn-MPIE (2K ids/0.36M images)
   - [Google Drive](https://drive.google.com/drive/folders/1PyiwOxTMWdt5N2O5vbGNZzMr5sMNI3r1?usp=sharing)
 
-## Validation(LFW, CFPFP, CPLFW, CALFW, AGEDB)
+## Validation (LFW, CFPFP, CPLFW, CALFW, AGEDB)
 Please prepare the validation set in [insightface](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_) with pretrained models
 ```python
 python validation_torch.py
