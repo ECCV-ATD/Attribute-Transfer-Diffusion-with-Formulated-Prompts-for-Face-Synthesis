@@ -28,7 +28,7 @@
 - Syn-MS1M (10K ids/0.5M images)
   - [Google Drive](https://drive.google.com/drive/folders/16z9t4tR7McY5HSD-u-CvL8CYMNwxx3sT?usp=sharing)
 
-- Syn-CASIA (2K ids/0.36M images)
+- Syn-MPIE (2K ids/0.36M images)
   - [Google Drive](https://drive.google.com/drive/folders/1PyiwOxTMWdt5N2O5vbGNZzMr5sMNI3r1?usp=sharing)
 
 
