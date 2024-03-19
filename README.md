@@ -29,12 +29,12 @@ pip install -r requirements.txt
   - [Google Drive](https://drive.google.com/drive/folders/1PyiwOxTMWdt5N2O5vbGNZzMr5sMNI3r1?usp=sharing)
 
 ## Validation (LFW, CFPFP, CPLFW, CALFW, AGEDB)
-Please prepare the validation set in [insightface](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_) with pretrained models
+Please download the validation set from [insightface](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_)
 ```python
 python validation_torch.py
 ```
+## Comparison with SOTA Models 
 ![table.png](table.png)
-
 Verification accuracy on benchmarks of Our FR model with SOTA method.Our approach shows superior handling of cross-pose challenges, notably in the CFPFP
 benchmark, while DCFace is particularly adept with the age variations in AgeDB. The data reflects Syn-MS1M’s consistently higher accuracy, underscoring
 the effectiveness of our approach in diverse face recognition scenarios.
