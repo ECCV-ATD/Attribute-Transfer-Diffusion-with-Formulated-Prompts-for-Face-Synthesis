@@ -6,17 +6,15 @@
 ## Getting Started
 - Clone the repo:
     ```
-    git clone https://github.com/xxxxxx321/PASL
-    cd PASL
+    git clone https://github.com/ECCV-ATD/Attribute-Transfer-Diffusion-with-Formulated-Prompts-for-Face-Synthesis.git
+    
     ```
 ## Installation
-- Python 3.7
-- Pytorch 1.12.1
-2. Install the requirements
-   ```
-    conda env create -f environment.yml
-    ```
-3. Please refer to [Pytorch3d](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md) to install pytorch3d.
+```python
+conda create --name ATD python=3.9
+conda activate ATD
+pip install -r requirements.txt
+```
 ## Pretrained Models
 | Architecture | Dataset      | Images (IDs×imgs)      | Link
 |--------------|--------------|-----------|-----------|
