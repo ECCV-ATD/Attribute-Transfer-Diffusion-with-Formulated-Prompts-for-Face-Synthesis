@@ -7,7 +7,6 @@
 - Clone the repo:
     ```
     git clone https://github.com/ECCV-ATD/Attribute-Transfer-Diffusion-with-Formulated-Prompts-for-Face-Synthesis.git
-    
     ```
 ## Installation
 ```python
