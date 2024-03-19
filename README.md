@@ -17,11 +17,12 @@
     conda env create -f environment.yml
     ```
 3. Please refer to [Pytorch3d](https://github.com/facebookresearch/pytorch3d/blob/main/INSTALL.md) to install pytorch3d.
-## Pretrained Model
-
-[Syn MS1M Model](https://drive.google.com/drive/folders/1AR5te4tRe-1H6gHGT29rIj2WECkpAiQo?usp=sharing)
-[Syn CASIA Model](https://drive.google.com/file/d/1FNkr3YIX2QcTgd9Up8MLeG23DhyI2Ptn/view?usp=sharing)
-[Syn MPIE Model](https://drive.google.com/file/d/1MPU8gNiK9E1sBe_p6kLj4juPMR4o_nQF/view?usp=sharing)
+## Pretrained Models
+| Architecture | Dataset      | Images (IDs×imgs)      | Link
+|--------------|--------------|-----------|-----------|
+| LR50          | Syn-MS1M | 0.5M (10K) | [Google Drive](https://drive.google.com/drive/folders/1AR5te4tRe-1H6gHGT29rIj2WECkpAiQo?usp=sharing) |
+| LR50          | Syn-CASIA | 0.5M (10K×50) | [Google Drive](https://drive.google.com/file/d/1FNkr3YIX2QcTgd9Up8MLeG23DhyI2Ptn/view?usp=sharing) |
+| LR50          | Syn-MPIE | 0.36M (2K×182) | [Google Drive](https://drive.google.com/file/d/1MPU8gNiK9E1sBe_p6kLj4juPMR4o_nQF/view?usp=sharing) |
 
 ## Training Datasets
 [Syn MS1M](https://drive.google.com/drive/folders/16z9t4tR7McY5HSD-u-CvL8CYMNwxx3sT?usp=sharing)
