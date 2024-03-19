@@ -18,9 +18,9 @@ pip install -r requirements.txt
 ## Pretrained Models
 | Architecture | Dataset      | Images (IDs×imgs)      | Link
 |--------------|--------------|-----------|-----------|
-| LR50          | Syn-MS1M | 0.5M (10K) | [Google Drive](https://drive.google.com/file/d/1BLUrw2-WTZj_r0duDQeYx-7JVxy-3tHg/view?usp=sharing) |
-| LR50          | Syn-CASIA | 0.5M (10K×50) | [Google Drive](https://drive.google.com/file/d/1FNkr3YIX2QcTgd9Up8MLeG23DhyI2Ptn/view?usp=sharing) |
-| LR50          | Syn-MPIE | 0.36M (2K×182) | [Google Drive](https://drive.google.com/file/d/1MPU8gNiK9E1sBe_p6kLj4juPMR4o_nQF/view?usp=sharing) |
+| LResNet50E-IR          | Syn-MS1M | 0.5M (10K) | [Google Drive](https://drive.google.com/file/d/1BLUrw2-WTZj_r0duDQeYx-7JVxy-3tHg/view?usp=sharing) |
+| LResNet50E-IR          | Syn-CASIA | 0.5M (10K×50) | [Google Drive](https://drive.google.com/file/d/1FNkr3YIX2QcTgd9Up8MLeG23DhyI2Ptn/view?usp=sharing) |
+| LResNet50E-IR          | Syn-MPIE | 0.36M (2K×182) | [Google Drive](https://drive.google.com/file/d/1MPU8gNiK9E1sBe_p6kLj4juPMR4o_nQF/view?usp=sharing) |
 
 ## Training Datasets
 - Syn-MS1M (10K ids/0.5M images)
