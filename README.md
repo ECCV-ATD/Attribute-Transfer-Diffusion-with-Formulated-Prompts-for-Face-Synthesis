@@ -31,7 +31,7 @@ pip install -r requirements.txt
 ## Validation (LFW, CFPFP, CPLFW, CALFW, AGEDB)
 Please download the validation set from [insightface](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_)
 ```python
-python validation_torch.py
+python verification_torch.py
 ```
 ## Comparison with SOTA Models 
 ![table.png](table.png)
