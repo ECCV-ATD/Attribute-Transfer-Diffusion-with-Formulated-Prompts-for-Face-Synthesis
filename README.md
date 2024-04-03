@@ -26,7 +26,7 @@ pip install -r requirements.txt
   - [Google Drive](https://drive.google.com/drive/folders/16z9t4tR7McY5HSD-u-CvL8CYMNwxx3sT?usp=sharing)
 
 - Syn-MPIE (2K ids/0.36M images)
-  - [Google Drive](https://drive.google.com/drive/folders/1PyiwOxTMWdt5N2O5vbGNZzMr5sMNI3r1?usp=sharing)
+  - [Google Drive](https://drive.google.com/drive/folders/1NQgHm_CM7zgnXtq_Vs5K6Y3s3zmEu8ZT?usp=sharing)
 
 ## Validation (LFW, CFPFP, CPLFW, CALFW, AGEDB)
 Please download the validation set from [insightface](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_)
