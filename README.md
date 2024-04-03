@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Training Datasets
 - Syn-MS1M (10K ids/0.5M images)
-  - [Google Drive]()
+  - [Google Drive](https://drive.google.com/drive/folders/16z9t4tR7McY5HSD-u-CvL8CYMNwxx3sT?usp=drive_link)
 
 - Syn-MPIE (2K ids/0.36M images)
   - [Google Drive](https://drive.google.com/drive/folders/1NQgHm_CM7zgnXtq_Vs5K6Y3s3zmEu8ZT?usp=sharing)
